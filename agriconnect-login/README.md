@@ -1,4 +1,92 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+# 🌱 AgriConnect Dashboard
+
+AgriConnect is a modern, playful, and mobile-friendly dashboard for the agriculture sector. It combines crop advisory, weather, news, jokes, quotes, product stats, and more—all in one place! Built with Next.js, TypeScript, Framer Motion, and Chart.js.
+
+---
+
+## 🚀 Features
+
+- ✨ Playful, animated UI (Framer Motion, confetti, emoji reactions)
+- 🌤️ Live weather, 📰 news, 😂 jokes, and 💡 inspirational quotes (via external APIs)
+- 📊 Data visualization: Bar and Pie charts (mock data, easy to connect to backend)
+- 🌓 Dark mode, custom background, and mobile-first design
+- 🔒 Auth-protected dashboard (NextAuth.js)
+
+---
+
+## 📸 Screenshots
+
+![Dashboard Screenshot](public/bg-agri.jpg)
+
+> _Tip: Add your own screenshots or GIFs here!_
+
+---
+
+## 🛠️ Installation
+
+1. **Clone the repo:**
+   ```bash
+   git clone <your-repo-url>
+   cd agriconnect-login/agriconnect/agriconnect/agriconnect-login
+   ```
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+3. **Start the development server:**
+   ```bash
+   npm run dev
+   ```
+4. **Open your browser:**
+   [http://localhost:3000/dashboard](http://localhost:3000/dashboard)
+
+---
+
+## 📝 How to Use
+
+- Log in or register to access the dashboard
+- Explore weather, news, jokes, and quotes
+- View product stats and category distribution (charts)
+- Try dark mode and enjoy the playful UI!
+
+---
+
+## 🐞 Known Bugs
+
+- News API may hit rate limits (uses demo key)
+- Some features use mock data (connect to backend for real data)
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+---
+
+## 📄 License
+
+MIT
+
+---
+
+## 📚 Learn More
+
+To learn more about Next.js, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+
+---
+
+## 🌐 Deploy
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 ## Getting Started
 

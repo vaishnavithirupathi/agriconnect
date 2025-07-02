@@ -1,5 +1,10 @@
 
+
 # 🌱 AgriConnect Dashboard
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20at%20Skillmate-green?style=for-the-badge" alt="Made with love at Skillmate" />
+</p>
 
 AgriConnect is a modern, playful, and mobile-friendly dashboard for the agriculture sector. It combines crop advisory, weather, news, jokes, quotes, product stats, and more—all in one place! Built with Next.js, TypeScript, Framer Motion, and Chart.js.
 
